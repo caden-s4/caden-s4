@@ -4,6 +4,6 @@
 ### building prediction-market infrastructure and working with reanalysis
 ### data.
 
-### **Learning:** machine learning fundamentals, linear algebra
+### **Learning:** fluid and solid mechanics
 
 ### chexmix17@berkeley.edu
